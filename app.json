@@ -1,0 +1,12 @@
+{
+  "name": "vpnapp",
+  "displayName": "vpnapp",
+  "expo": {
+    "name": "vpnapp",
+    "slug": "vpnapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
